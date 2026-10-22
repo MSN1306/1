@@ -1,0 +1,2 @@
+- name: OpenAI Completions
+  uses: Just-Moh-it/openai@v0.0.1
